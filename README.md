@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
