@@ -99,4 +99,12 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
