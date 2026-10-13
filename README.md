@@ -22,6 +22,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,10 +65,12 @@
 | [0016-3sum-closest](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0011-container-with-most-water) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
