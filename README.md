@@ -18,6 +18,7 @@
 | [0031-next-permutation](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
