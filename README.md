@@ -20,6 +20,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -129,6 +133,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
@@ -146,4 +151,8 @@
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
