@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -81,6 +83,7 @@
 | [0018-4sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -142,6 +145,7 @@
 | [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2235-add-two-integers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Geometry
@@ -169,4 +174,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
