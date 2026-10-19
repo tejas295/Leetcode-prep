@@ -22,6 +22,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@
 | [0016-3sum-closest](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
