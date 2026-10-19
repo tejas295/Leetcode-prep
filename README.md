@@ -53,6 +53,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -149,6 +150,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2235-add-two-integers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Geometry
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
