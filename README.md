@@ -70,6 +70,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
