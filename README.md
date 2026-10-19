@@ -26,6 +26,7 @@
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -53,6 +54,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
@@ -76,6 +78,7 @@
 | [0018-4sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3727-maximum-alternating-sum-of-squares) |
