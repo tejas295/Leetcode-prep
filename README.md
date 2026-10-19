@@ -145,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2235-add-two-integers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Geometry
 |  |
