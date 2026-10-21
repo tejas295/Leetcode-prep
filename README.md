@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
