@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0275-h-index-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
