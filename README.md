@@ -64,6 +64,7 @@
 | [0162-find-peak-element](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0275-h-index-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -188,10 +189,19 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0274-h-index) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
