@@ -83,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0344-reverse-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
@@ -148,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/2235-add-two-integers) |
@@ -189,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tjain0202-dot/Leetcode-prep/tree/master/3644-maximum-k-to-sort-a-permutation) |
